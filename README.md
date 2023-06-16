@@ -38,4 +38,10 @@ https://blog.csdn.net/weixin_46125998/article/details/118991929
 ### 绘图基础
 
 
+## 2023-06-16 更新
+目前项目已经可以在 matlab 上正常运行，实现的可视化包括raster, waveform, isi
+需要做的工作包括需求再分析，代码整理和重构，系统性的Matlab科学学习，tuning curve功能的添加与实现
+* 同时删除了一些中间文件（也即学习Matlab语法和GUI编程），整理和重命名了文件夹，添加说明文件，规定了各文件夹扮演的功能
+
+
 
